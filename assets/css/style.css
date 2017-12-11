@@ -1,0 +1,7 @@
+body {
+    background-image: url("../images/circles-light.png");
+    overflow: auto;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
