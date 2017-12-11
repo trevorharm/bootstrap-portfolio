@@ -25,3 +25,13 @@ a, p {
     color: #777777;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
+
+
+
+.bold {
+    font-size:25pt;
+    color: white;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+}
