@@ -25,7 +25,10 @@ a, p {
     color: #777777;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
 }
-
+.message {
+    height: 250px;
+    width: 95%;
+}
 .bold {
     font-size:25pt;
     color: white;
